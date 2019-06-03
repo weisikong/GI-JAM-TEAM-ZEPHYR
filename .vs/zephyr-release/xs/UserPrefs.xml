@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{D1FBE1C0-52AC-E575-7F2E-A90815D7A229}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CurbGenerator.cs">
+    <Files>
+      <File FileName="Assets/gui/LifeScript.cs" Line="22" Column="18" />
+      <File FileName="Assets/Scripts/EndGame.cs" Line="19" Column="6" />
+      <File FileName="Assets/Scripts/StartGame.cs" Line="17" Column="27" />
+      <File FileName="Assets/Scripts/BuildingGenerator.cs" Line="82" Column="12" />
+      <File FileName="Assets/Scripts/CurbGenerator.cs" Line="17" Column="42" />
+      <File FileName="Assets/FollowObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/gui/TimerSet.cs" Line="1" Column="1" />
+      <File FileName="Assets/gui/HealthScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ObjectMovement.cs" Line="66" Column="13" />
+      <File FileName="Assets/Scripts/ObstacleGenerator.cs" Line="62" Column="33" />
+      <File FileName="Assets/Scripts/CoinGenerator.cs" Line="50" Column="10" />
+      <File FileName="Assets/Scripts/SimpleCharacterControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

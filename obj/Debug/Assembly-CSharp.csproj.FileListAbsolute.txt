@@ -1,0 +1,2 @@
+/Users/felixzhang/Downloads/zephyr/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/felixzhang/Downloads/zephyr/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
